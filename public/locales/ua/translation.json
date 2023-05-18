@@ -1,0 +1,8 @@
+{
+  "header": {
+    "homePageButton": "Головна",
+    "signInButton": "Увійти",
+    "signUpButton": "Реєстрація",
+    "profileButton": "Кабінет"
+  }
+}

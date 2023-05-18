@@ -1,0 +1,8 @@
+{
+  "header": {
+    "homePageButton": "Home",
+    "signInButton": "Sign in",
+    "signUpButton": "Sign up",
+    "profileButton": "Profile"
+  }
+}
